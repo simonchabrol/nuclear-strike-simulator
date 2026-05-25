@@ -4,7 +4,7 @@
 
 ### Overview
 
-This simulator is a direct visual implementation of the casualty model developed in the article *"The consequences of a nuclear war: case study on 80s UK"* (Simon Chabrol, 2025), itself based on the British government's **Square Leg** civil defence exercise (1980).
+This simulator is a direct visual implementation of the casualty model developed in the article *"How does a full scale nuclear exchange work ? Case study on 80s UK"* (Simon Chabrol, 2025), itself based on the British government's **Square Leg** civil defence exercise (1980).
 
 The tool allows any user to select one of 200 pre-loaded cities — or enter a city manually — and visualise the estimated human consequences of a nuclear strike. The blast zones are projected onto an interactive map, with circle radii calculated from the Glasstone-Dolan scaling law and automatically adjusted to the total explosive yield required by each city.
 
@@ -61,7 +61,7 @@ The interface is built in vanilla JavaScript using Leaflet.js for the map layer.
 
 ### Présentation
 
-Ce simulateur est une implémentation visuelle directe du modèle de pertes développé dans l'article *« The consequences of a nuclear war: case study on 80s UK »* (Simon Chabrol, 2025), lui-même fondé sur l'exercice de défense civile britannique **Square Leg** (1980).
+Ce simulateur est une implémentation visuelle directe du modèle de pertes développé dans l'article *« How does a full scale nuclear exchange work ? Case study on 80s UK »* (Simon Chabrol, 2025), lui-même fondé sur l'exercice de défense civile britannique **Square Leg** (1980).
 
 L'outil permet à n'importe quel utilisateur de sélectionner une ville parmi 200 prédéfinies — ou d'en saisir une manuellement — et de visualiser les conséquences humaines estimées d'une frappe nucléaire. Les zones de destruction sont projetées sur une carte interactive, avec des rayons calculés à partir de la loi d'échelle de Glasstone-Dolan et automatiquement ajustés à la puissance explosive totale requise par chaque ville.
 
@@ -114,5 +114,5 @@ L'interface est développée en JavaScript vanilla avec Leaflet.js pour la couch
 
 ---
 
-*Based on: Simon Chabrol, "The consequences of a nuclear war: case study on 80s UK" (Medium, 2025)*
+*Based on: Simon Chabrol, "How does a full scale nuclear exchange work ? Case study on 80s UK" (Medium, 2025)*
 *Square Leg exercise data: UK Home Office, 1980*
