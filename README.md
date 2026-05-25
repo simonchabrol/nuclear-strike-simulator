@@ -1,4 +1,4 @@
-# Nuclear Strike Simulator / Simulateur de frappe nucléaire
+# Nuclear Strike Simulator
 
 ## English
 
